@@ -1,0 +1,24 @@
+{
+  "lat": "12.97194N",
+  "lon": "77.59369E",
+  "elevation": 920,
+  "timezone": "Asia/Kolkata",
+  "units": "metric",
+  "current": {
+    "icon": "cloudy",
+    "icon_num": 6,
+    "summary": "Cloudy",
+    "temperature": 23.2,
+    "feels_like": 22.0,
+    "wind_chill": 24.5,
+    "dew_point": 12.0,
+    "wind": { "speed": 4.2, "gusts": 8.6, "angle": 83, "dir": "E" },
+    "precipitation": { "total": 0.0, "type": "none" },
+    "cloud_cover": 85,
+    "ozone": 255.98,
+    "pressure": 1017,
+    "uv_index": 6.21,
+    "humidity": 49,
+    "visibility": 24.14
+  }
+}
