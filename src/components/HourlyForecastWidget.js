@@ -31,7 +31,7 @@ function HourlyForecastWidget({ data }) {
 
   weather_date.day =
     weather_date.day === now_date.day && weather_date.time === now_date.time
-      ? "Today"
+      ? "Now"
       : weather_date.time === "00:00"
       ? weather_date.day
       : "";
